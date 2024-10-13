@@ -5,9 +5,9 @@
 -"as jobs": ["Data", "Data Engineering", "Game Development", "Roblox Studio", "pygame"]
 - }
 - 
-- 🌱 I’m currently learning learning = ["python"]
+- 🌱 I’m currently learning = ["python"]
 - 
-- 💞️ I’m looking to collaborate on print("No one yet...")
+- 💞️ I’m looking to collaborate on print("No one yet and I am young to get a job.")
 - 
 - 😄 Pronouns: ["he/him"]
 - 
